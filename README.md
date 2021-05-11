@@ -1,2 +1,2 @@
 # protokoleverse
-It is artificial intellect finding, preparing and printing protokols
+It is artificial intellect for finding, preparing and printing protokols
