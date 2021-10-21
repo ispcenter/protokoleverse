@@ -1,0 +1,28 @@
+[
+  "18.10.2021",
+  {
+    "protokol_1": {
+      "tkrModel": "ТКР 90",
+      "serialNumber": "386111",
+      "protType": "ПП",
+      "protNumber": "57/21",
+      "date": "20.10.2021"
+    },
+
+    "protokol_2": {
+      "tkrModel": "ТКР 90",
+      "serialNumber": "386112",
+      "protType": "ПП",
+      "protNumber": "58/21",
+      "date": "20.10.2021"
+    },
+
+    "protokol_3": {
+      "tkrModel": "ТКР 90",
+      "serialNumber": "386113",
+      "protType": "ПП",
+      "protNumber": "59/21",
+      "date": "20.10.2021"
+    }
+  }
+]
